@@ -12,14 +12,25 @@ per 02/05/20, it was written with html and some bootstrap magic
 
 ---
 
+# notes
+
+everything is just html + css here, don't get too far with your imaginations and keep it on the borderline of what githubpages can do for you (as because it's free thing, can't push it that much)
+
 # to-do
 
+## what you can actually do
+
+- *making it actually looks real*
+- not to be too playful and keep things real *by redoing everything*
+
+## somewhere around the horizon
+
 - adding more items to the pages
-- downsizing and minimalizing the bg image to make it loads faster
 - adding [jekyll](https://github.com/jekyll/jekyll) for blog?
 - looking for more styling ideas and whatnots
 - custom domain?
-- actually using rails later?
+- ~~downsizing and minimalizing the bg image to make it loads faster~~
+- ~~actually using rails later?~~
 
 ---
 
