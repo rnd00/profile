@@ -22,6 +22,12 @@ everything is just html + css here, don't get too far with your imaginations and
 
 - *making it actually looks real*
 - not to be too playful and keep things real *by redoing everything*
+- getting a carousel (?) for each of your projects and the project where you contributed
+- link to lewagon (tokyo?)
+- get rid of the `blockquotes` thing and `past-time` too as it's not really good
+
+## what has been done
+
 - sticking the footer down (use flexbox)
 
 ## somewhere around the horizon
