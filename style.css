@@ -5,6 +5,7 @@ body {
   font-weight: 300; /* if you want the light version */
   background-image: url("images/cz-sky-bird.jpg");
   /*height: 500px;*/
+  height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -39,6 +40,7 @@ a {
 .container { /* normal size */
   width: 700px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
+  flex: 1 0 auto;
 }
 
 @media (max-width: 960px) {
@@ -153,5 +155,6 @@ a {
 }
 
 #sticky-footer {
-  flex-shrink: none;
+  flex-shrink: 0;
+  padding: 20px;
 }

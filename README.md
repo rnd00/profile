@@ -22,6 +22,7 @@ everything is just html + css here, don't get too far with your imaginations and
 
 - *making it actually looks real*
 - not to be too playful and keep things real *by redoing everything*
+- sticking the footer down (use flexbox)
 
 ## somewhere around the horizon
 
