@@ -106,11 +106,11 @@ a {
 .list-inline > li {
   display: inline-block;
   padding: 0px 16px;
+  font-size: 24px;
 }
 
 .list-inline a {
   color: rgba(0, 0, 0, 0.7);
-  font-size: 32px;
 }
 
 .flickr-box {
@@ -134,15 +134,16 @@ a {
   background-color: rgba(235, 235, 235, 0.8);
 }
 
-#follow-me {
+/* #follow-me {
   padding: 8px;
-}
+} */
 
-/* 
+
 #social-links {
-  margin: 0;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 24px;
 } 
-*/
+
 
 #past-time {
   color: rgba(0, 0, 0, 0.7);
