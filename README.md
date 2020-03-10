@@ -2,6 +2,10 @@
 
 my own profile page, 'nuff said.
 
+## something-something
+
+i'll be letting this one be as is and not changing it anymore.
+
 ## why
 
 as an assignment + something to motivates myself and something to keep working on
