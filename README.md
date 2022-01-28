@@ -2,6 +2,16 @@
 
 my own profile page, 'nuff said.
 
+## little update per 2022/01
+
+i'm removing my twitter link because it's suspended since long time ago-- and people have been asking about it when they see my profile page.
+
+[@nantokawakaran](https://twitter.com/nantokawakaran) [^1] was made when i was working in a startup company around 2019, using my old company email account. it was made just to put some likes on company's post and checking on some news.
+
+as i wrote when i made the site, it was already suspended, and i just don't really check it as i'm not using twitter at all.
+
+contact me through my github if you need me.
+
 ## something-something
 
 i'll be letting this one be as is and not changing it anymore.
@@ -46,3 +56,6 @@ everything is just html + css here, don't get too far with your imaginations and
 ---
 
 anyway don't forget to keep having fun while making it looks nice (and real)
+
+---
+[^1]: ./images/nantokawakaran_tw.PNG
